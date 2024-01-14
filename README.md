@@ -3,6 +3,8 @@
 A simple way to authenticate users whithout being given their credentials. Intended to be hosted on the school's infrastructure, ideally on the same subdomain (if it is the case) as GIAE (giae.escola.pt/auth.php).
 This way, users may be less apprehensive of submiting their credentials.
 
+**THIS IS NOT OAUTH OR OAUTH2. IT IS A VERY SIMPLE \*EXAMPLE\* FOR SIMPLE USE CASES**
+
 ## How to use
 
 GIAEAuth expects 3 **required** variables:
