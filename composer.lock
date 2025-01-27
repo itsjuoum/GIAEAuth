@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "juoum/giaeconnect",
-            "version": "v1.1.0",
+            "version": "v1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/itsjuoum/GIAEConnect.git",
-                "reference": "fc67b7662613c038aacff1bd97f7636fc223fe97"
+                "reference": "152093995342c8cf10076e40d373ab94b8e15524"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/itsjuoum/GIAEConnect/zipball/fc67b7662613c038aacff1bd97f7636fc223fe97",
-                "reference": "fc67b7662613c038aacff1bd97f7636fc223fe97",
+                "url": "https://api.github.com/repos/itsjuoum/GIAEConnect/zipball/152093995342c8cf10076e40d373ab94b8e15524",
+                "reference": "152093995342c8cf10076e40d373ab94b8e15524",
                 "shasum": ""
             },
             "type": "library",
@@ -38,9 +38,9 @@
             "description": "This PHP class provides an unofficial API for the GIAE platform (Gestão Integrada para Administração Escolar), widely used on Portuguese public schools, on behalf of a given user.",
             "support": {
                 "issues": "https://github.com/itsjuoum/GIAEConnect/issues",
-                "source": "https://github.com/itsjuoum/GIAEConnect/tree/v1.1.0"
+                "source": "https://github.com/itsjuoum/GIAEConnect/tree/v1.1.1"
             },
-            "time": "2024-01-14T20:30:13+00:00"
+            "time": "2025-01-27T01:12:14+00:00"
         }
     ],
     "packages-dev": [],
@@ -51,5 +51,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.3.0"
 }
